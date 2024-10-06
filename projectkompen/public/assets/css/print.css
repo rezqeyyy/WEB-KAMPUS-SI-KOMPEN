@@ -1,0 +1,7 @@
+body {
+    background: transparent;
+}
+
+.page-breadcrumb, .toolbar, .contacts {
+    display: none;
+}
